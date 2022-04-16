@@ -1,5 +1,5 @@
 let handler = async (m, {conn}) => {
-     conn.reply(m.chat, `This bot uses a github script\n\nhttps://github.com/SudoAnirudh/Eva-Md\n\nIts Private..`, m) 
+     conn.reply(m.chat, `This bot uses a github script\n\nhttps://github.com/SudoAnirudh/EvaMd(PUBLIC)\n\nGive Some Stars..`, m) 
 }
 handler.help = ['sourcecode']
 handler.tags = ['info']

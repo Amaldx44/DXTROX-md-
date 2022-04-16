@@ -4,7 +4,7 @@ const { promisify } = require('util')
 const { join } = require('path')
 
 let confirmation = {}
-let repository = 'SudoAnirudh/Eva-Md'
+let repository = 'SudoAnirudh/EvaMd'
 let branch = 'master'
 
 async function handler(m, { text }) {
