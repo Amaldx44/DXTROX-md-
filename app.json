@@ -1,7 +1,7 @@
 {
   "name": "eva",
   "description": "WhatsApp Bot Using Library Baileys Multi Device",
-  "repository": "https://github.com/SudoAnirudh/Eva-Md",
+  "repository": "https://github.com/SudoAnirudh/EvaMd",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"]
 }
